@@ -1,7 +1,7 @@
 class Tinc < Formula
   homepage "http://www.tinc-vpn.org"
-  url "http://tinc-vpn.org/packages/tinc-1.0.25.tar.gz"
-  sha1 "b728e1ed02862aab04b2a53a62c2f67edd0c3949"
+  url "http://tinc-vpn.org/packages/tinc-1.0.26.tar.gz"
+  sha256 "2b4319ddb3bd2867e72532a233f640a58c2f4d83f1088183ae544b268646ba21"
 
   bottle do
     sha1 "359656333342ffc8fa80ca09a89390833816b163" => :yosemite
