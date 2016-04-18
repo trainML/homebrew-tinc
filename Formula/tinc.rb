@@ -1,6 +1,7 @@
 class Tinc < Formula
-  homepage "http://www.tinc-vpn.org"
-  url "http://tinc-vpn.org/packages/tinc-1.0.26.tar.gz"
+  desc "Virtual Private Network (VPN) tool"
+  homepage "https://www.tinc-vpn.org/"
+  url "https://tinc-vpn.org/packages/tinc-1.0.26.tar.gz"
   sha256 "2b4319ddb3bd2867e72532a233f640a58c2f4d83f1088183ae544b268646ba21"
 
   bottle do
@@ -10,8 +11,8 @@ class Tinc < Formula
   end
 
   devel do
-    url "http://www.tinc-vpn.org/packages/tinc-1.1pre11.tar.gz"
-    sha1 "ee6920d87b377c39da71d7ad5807a37f55e4e3be"
+    url "https://www.tinc-vpn.org/packages/tinc-1.1pre11.tar.gz"
+    sha256 "942594563d3aef926a2d04e9ece90c16daf1c700e99e3b91ff749e8377fbf757"
   end
 
   depends_on "lzo"
