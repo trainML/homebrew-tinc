@@ -1,3 +1,3 @@
-# homebrew-tinc
-Homebrew formula for pre-release tinc installation.
+# homebrew-trainML
+Homebrew formulas for trainML client installation.
 Required for the use of the trainML platform.
